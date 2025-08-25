@@ -1,10 +1,10 @@
-# Insider - QA Engineer Case Study
+# QA Engineer Case Study
 
 ---
 
 ## Overview
 
-This repository contains an automation framework that may provide end-to-end testing of a Insider web application.
+This repository contains an automation framework that may provide end-to-end testing of the web application.
 
 The framework utilizes:
 - **Selenium WebDriver** for browser automation.
